@@ -1,0 +1,18 @@
+p::first-letter{
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
+p::first-line{
+    color:blue
+}
+h2::before{
+    content:"*";
+}
+h2::after{
+    content:"*";
+}
+::selection{
+    background-color: yellow;
+    color: rgb(211, 124, 48);
+}

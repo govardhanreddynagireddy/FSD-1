@@ -1,0 +1,15 @@
+a:link{
+    color: blue;
+}
+a:visited{
+    color: rgba(157, 0, 0, 0);
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
+input:focus{
+    background-color: rgb(249, 237, 7);
+}

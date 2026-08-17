@@ -1,0 +1,16 @@
+div p{
+    color: blue;
+}
+section > h1,p{
+    color: rgb(208, 164, 31);
+    
+}
+#Gova{
+    color:#46d10a
+}
+h3+p{
+    color:blueviolet
+}
+h4 ~p{
+    color:black
+}

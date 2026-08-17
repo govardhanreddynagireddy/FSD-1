@@ -1,0 +1,19 @@
+h2{
+    color: rgb(16, 246, 246);
+}
+
+#Heading-1{
+    color: rgb(33, 236, 33);
+        text-align: center;
+}
+.example{
+    color: rgb(235, 246, 27);
+    font-size: 20px;
+    background-color: chocolate;
+}
+h3,p{
+    color: rgb(255, 255, 255);
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
