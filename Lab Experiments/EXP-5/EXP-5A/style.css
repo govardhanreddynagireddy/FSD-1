@@ -1,0 +1,18 @@
+h1{
+    color:greenyellow;
+}
+h2{
+    color:#A028C9;
+}
+h3{
+    color:rgb(202, 175, 210);
+}
+h4{
+    color:rgba(131, 176, 101, 0.39);
+}
+h5{
+    color:hsl(300,100%,30%);
+}
+h6{
+    color:hsla(210,100%,40%,0.7);
+}

@@ -1,0 +1,23 @@
+.Heading{
+    font-size:32px;
+    font-weight:bold;
+    text-align:center;
+    color: brown;
+}
+.italic{
+    font-style: italic;
+    font-size:22px;
+}
+.underline{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.upper{
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.center{
+    text-align: center;
+    color: aqua;
+    font-size:22px;
+}
